@@ -1,0 +1,120 @@
+=Hi , Engineer Bian , are you there ? 
+I 'm having a problem now . We just got the handheld PDA system online for the Nursing these two days . When entering body temperature in it , it is normal when entering the afternoon measurements , it shows after a box ; when entering the morning measurements , it just does not show 
+You mean 
+it is our company's ? 
+Is there something wrong with the interface ? 
+No 
+The key thing is , the blood pressure measurements entered in the afternoons can be shown on your electronic medical records 
+OK with blood pressure 
+It just does n't show when morning measurements are selected 
+There should be no problems with electronic medical records . =If there is nothing wrong with the way the nurses operate it , we will have to look at the interface for the cause 
+Can you let me take a look through remote access ? 
+I do n't know which patient number it is 
+Yesterday , when I went down to the department , I saw the nurse do the entering 
+After that , I also tried 
+Indeed , after the morning measurements are saved , there is no information in the electronic medical records 
+It is fine with the afternoon measurements , though 
+In that case , do you think it is the problem with the electronic medical records ? 
+Because this involves the system of two places 
+Body temperature is entered into the pda and saved in the pad 
+The question now is whether it is like this in the whole hospital , or is it only for certain patients ? 
+It 's like this everywhere 
+If this problem happens everywhere , I will have to look at the interface for the cause 
+Who did the interface for the hospital at that time ? Get them to check 
+They asked me to look for the electronic medical record engineer … 
+Now , I think the problem is that the data at their side are not transmitted here 
+Oh , I 'll ask later 
+=Hi , Engineer Bian , are you there ? 
+Now , there is a surgery done for medical record no. 244088 on the 30th , and inside Nursing , the number of days after surgery shows as 1 / 14 
+Nursing said it should be 1 / 1 
+I made changes =inside , and when saving the data , it showed grey and could n't save 
+Remote access 
+Use the director 's machine , there 's no one 
+I do n't have electronic medical records =here 
+The electronic medical records on the server are even wrong frequently 
+I do n't have remote access software installed here 
+I can only seek remote access 
+If I turn it on , it will be very choppy … 
+You must use the employee number of a nurse 
+I 'll change it remotely 
+guest1 password 
+zz3hospital 
+Is the admission number 244088 ? I could n't find this person 
+Select time 
+You need to change it to week 
+Surgery patient number 
+There are four 0's in front … 
+0000244088 
+Got it now ? 
+Yes 
+Why did your nursing department say to write 1 / 1 ? 
+Surgery performed on the 30th 
+So should n't it be 1 / 14 ? 
+I do n't know 
+This is totally correct , it 's based on Shandong Medical Record Documentation Standard 
+The nurse said to change to 1 / 1 … 
+All of you must have some nursing knowledge , otherwise they often pull the wool over others ' eyes 
+What does that mean ? 
+1 / 14 means the last surgery is 14 days ago ; surgery done on the 30th is one day ago 
+Oh 
+1 / 1 means the last surgery is one day ago ; surgery done on the 30th is also one day ago 
+Which one do you think is correct ? 
+Idiot 
+Totally confusing 
+This patient must have had a surgery previously .
+You can not listen to the nurses 
+See , it is written very clearly on his body temperature sheet 
+Brother Peng , I 'll give you a screenshot 
+Then , why is it that in the medical record , the information starts only from the 30th ? 
+There was a surgery on May 17 
+Oh 
+Right now , there are no problematic sheets in the electronic body temperature sheets 
+OK , I know now , I will tell them 
+When we at the information department receive their calls , it is better to take a look at their medical records carefully 
+Take this medical record for example , there is no problem in the electronic body temperature sheet 
+Yes 
+Still not right after sorting it out 
+Still not right here 
+It should be 1 / 14 but still shows as 1 / 1 
+What do you really want ? 
+This 1 / 1 corresponds to the record for the 30th 
+It should be 1 / 14 , now it is 1 / 1 
+Did n't you say the other way round just now ? 
+Yes , but the department told me it has to be changed to 1 / 1 , and now the head nurse said to change to 1 / 14 
+Just change it 
+Change it directly 
+Where to change ? 
+It should have been 1 / 14 , but you had to change it to 1 / 1 
+After changing it , you also ask me to change it back 
+Change it directly in the box 
+Just now , that young nurse said the one in the batch is wrong , 1 / 14 must be changed to 1 / 1 
+Save directly after changing 
+Now , the head nurse said the one in the batch is correct , the 1 / 1 shown on the body temperature sheet outside is wrong and should be 1 / 14 
+Just change it directly 
+Save after changing 
+Change directly here ? 
+Yes 
+I ca n't enter 
+Save after changing 
+Did you see what I did just now ? 
+I ca n't enter , how to change ? 
+No , that was Wang Xiang 's machine 
+Give me remote access , I 'll do it again 
+My machine , currently fixing a wireless PDA machine 
+Take a look 
+Free in the afternoon ? I ca n't go over now , currently fixing a wireless PDA 
+It should be fine 
+If you told the nurse in the beginning that that was correct , everything would be fine , right ? 
+The key thing is , the nurse and the head nurse said different things 
+Had to change to 1 / 1 , now have to change it back 
+Find out about the body temperature sheet entry rules and you wo n't get fooled by them in future 
+Depressed 
+Brother Peng , what software exam did you take ? 
+Network engineer 
+OK , I 'll go eat now 
+When you have time in the afternoon , =holler 
+OK , this afternoon , I 'll get someone from my department to contact you ; I 'm off in the afternoon 
+Depressed , I have to go back late at noon 
+I still have to fix the wireless device 
+It 's all work 
+Yes 

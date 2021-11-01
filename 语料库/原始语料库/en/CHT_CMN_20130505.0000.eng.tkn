@@ -1,0 +1,76 @@
+You there ? 
+The analog signals for the series compensation were all taken from electrical capacity and electrical currents of the series compensation high voltage platform , MOV electrical current and so on ( 500kv electrical potential ) 
+To ensure meeting insulation requirements the series compensation will have a measuring box installed on the platform , and after transforming the analog into optical digital signals through the measuring box , then transmit to the platform through the fiber optics ( insulated ) to the protection control system , and then forward to the fault recorder from the protection control system .
+The foreigners do n't really approve of this method , and think we should give them the analog volume .
+This is a little difficult for me to do .
+" Install a measuring box on the platform , " what contents is this analog volume measuring ? How big a signal ? And is it 500kV and a primary current signal ? 
+The measuring box used on the collection platform CT , PT 's secondary current voltage signal is generally 1 A and 100V , which is then transformed into digital optical signals .
+That is right , ca n't you just directly give it to them at the 1 A and 100V places ? 
+Pull a power cable and directly give it to them 
+These CT , PTs are on the 500kv platform , if we pull over a power cable then the power cable has to go through the platform and will be required to be insulated from the platform with a strength satisfying 500kv . There is no way to do this ! 
+On the secondary side , is n't it 100V and 1 A ? How can it be given to your measuring box , just how do you give them 
+And the power cable for your measuring box also needs an insulation strength of 500kV ? 
+The measuring box is also on the platform , their recorder is in the closet . The electrical potential of these two things are not the same .
+The measuring box and platform are equivalent electrical potential .
+Is it this , that for the high voltage primary current , voltage uses the large power cable to go to your platform , and through the PT , CT on the platform transforms to 100V , 1 A , and then goes through the small power cable to your measuring box ? 
+Yes 
+Merge voltage at the small power cable location , and align currents for you , wo n't this work ? 
+Your voltage 2 port , current 2 ports give them , and it should not matter if you have equivalent electrical potential or not 
+The routine PT , CT primary and secondary insulation will be a primary insulation against ground ( 500kv ) .
+Using PT , CT for series compensation has to be placed between the primary and secondary insulation of the platform and need only satisfy series connection capacitor voltage ( line current multiplied by capacity resistance ) .
+That is to say the secondary side of series compensation PT , CT also is high electrical potential .
+A high electrical potential secondary side can only be connected to a platform measuring box of the same electrical potential , and can not be connected to grounded electrical potential fault recorders .
+I do n't know if I 've made it clear or not , if you have an opportunity to talk in person the result may be better .
+How are the domestics issues being resolved ? Can others use your digital signal ? Can this be done through a protocol ? 
+Its all fine ! The foreigners think we definitely have to connect to the original analog volume to be appropriate .
+To tell you the truth , Old Yu , as for the fault recording , it is monitoring and analyzing , we really need the primaries , only independents will do , similar to the blanking aspect 
+That ’s right ! In this way we 'll have them collect optical signals from the platform measuring box according to our protocol . Nor is the live volume of this customization large , the foreigners are n't willing to do it .
+Nobody is willing to do things you wo n't make money off .
+Do you have to do this fault recording for them ? Is this just a issue of economical transportation for you ? 
+Recording is done only for malfunction analysis , and uses the mother line voltage , wire current is fine 
+If that ’s the case , do capacitor gear also need to be fault recorded for them ? In reality no. 
+I have some equipment current voltage here , it can analyze whether the status of series compensation sub equipment is normal or not during the malfunction process , and whether it has changed or not .
+That 's right , there is no need to record more for it , you belong to the economic category , at most give a hard connecting point to initialize the fault recorder for this line 
+Because it is passing through in the circuit , once a malfunction occurs it will likely lead to a circuit break , thus we place a fair amount of attention on this .
+I hope to fully have a handle on the status of the equipment .
+Or perhaps there 's a diagram that is better , if possible I 'll come over on the 20th 
+OK , the opportunities to cooperate in the future are many . We 'll talk face to face then .
+Is the capacitor malfunction a puncture ? 
+Right ! First a puncture , then an explosion , then a break .
+According to reason resistance was increased , the circuit protection will not move 
+In this kind of malfunction circuit protection will likely not move , thus series compensation will just rely on its own side path switch to withdraw from series compensation side path operations , the protection equipment will not be seriously damaged .
+Yeah , protect you own equipment , the purpose of fault recording is monitoring . However the regulation standards require independent fault recording for monitoring , or can you monitor it yourself ? 
+The regulation standards do n't clarify which to use , and recommend that both are ok . Thus we still need to communicate with the user and listen to their thoughts .
+Then you try to get it scrapped using reasoning , 
+This reasoning is very clear , for example the transformers will also explode , and the fault recorders will not be able to go and monitor 
+As long as the outside current voltage monitor arrives it will be ok 
+Also , the power source will also explode , and the fault recording wo n't monitor it 
+That ’s right ! Sometimes the thinking of the user just follows what they are used to , no matter if it 's useful or not , as long as it 's a function you can realize , they will first submit requirements that you realize these functions .
+Sometimes they also understand reason , but with different stands on viewing the problem the requirements will of course be different .
+You first have to go through the National Grid of Brazil Company to persuade them , and the fault recorder already recorded the voltage and current of this circuit , and you can just initiate the fault recording when a connection is given for series compensation malfunctions or bypass movement 
+We are also thinking of how to communicate further . Thank you for your suggestions , I am preparing to go offline here . If I have time and see you we 'll talk again . Bye bye ! 
+Bye bye ! 
+Morning , how much longer do you have to wait ? You do n't want me to come over , have you all left 
+My visa is only until the latter third of this month , I am currently applying for an extension but do n't know if I 'll get it .
+If I can get it I 'll be extended for another month , otherwise I will have to be sent back to China .
+Are you 45 days ? Mine is 90 days 
+That 's good , I 'll wait for you to settle things , I 'll decide the itinerary 
+That ’s not right , you went over on April 15 
+Only 30 days ? 
+I am 30 days . According to what our overseas business personnel they can only get this type at the moment . It seems that your overseas business department is better .
+Brother , I went to get it myself , it was even cheap , 
+90 days , an accumulated 180 days a year 
+You are quite capable . We had everything done by our business department , thus I am not clear on the specifics . I only know they are currently helping me extend my visa .
+Did you get one yourself in the past , otherwise if you go and do it yourself it feels like it wastes time and money , and is probably quite bothersome .
+I have n't done it for Brazil , nor have I been to Brazil . Are you going from Beijing to Paris and then to Brazil ? 
+We are transferring in Dubai , you Nanrui guys seem to all transfer in Paris .
+If transferring in Dubai , is n't the second leg too long ? How much USD cash do you bring ? 
+The costs of using reals here is about the same as using RMB in Beijing .
+Here a bottle of coke is 3 reals , in Beijing its 3 RMB .
+The exchange rate of reals to USD is approximately 2 : 1 . The hotel we 're at is approximately 350 reals per night , and meals per day I expect at least 50 reals , add to this 30 reals for taking cabs , and the number of days you plan to stay , and you can basically calculate out an approximation .
+You ca n't use cards ? Credit cards ? 
+Right , there is this problem when transferring in Dubai . However , the total time is about the same .
+My God , 1 thousand a night 
+You can . But its seems they do n't use pins here . There is the danger of credit cards being easily stolen and used 
+The place we 're staying at is fairly close to where the National Grid is , the environment is quite nice besides the beach , so it ’s a bit expensive .
+Nanrui generally does n't stay nearby , so it should be a little cheaper .

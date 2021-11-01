@@ -1,0 +1,68 @@
+Is Engineer Dong there ? The platform can already be used , but right now it is still not possible to ping different ports 
+The policy has already been opened , I 'll look at the policy again when I am able to get online in a minute 
+Uh , =OK 
+Are you there , Engineer Dong ? It 's still not possible to have mutual access 
+I 'm here , 
+What is the address of your internal network ? 
+The policy has been opened , 
+It is on target , 
+why wo n't the test go through ? 
+If I PING under port 2 , it will go through 
+Does this machine allow PING ? 
+It does n't work under 3 
+It is a big screen , and can directly ping 
+Try again , 
+I can not PING through from the device 
+Alright 
+It still does n't work 
+I also can not PING through from the device 
+Where we are , from the second floor computer room 's port number 2 , we can PING through … 
+Can you PING through on the same switch ? 
+It does not seem to have reached the firewall 
+Can the big screen PING through the gateway ? 
+The big screen is just a card 
+It is under the same switch 
+This over here comes out of the device , and is directly connected by fiber optic cable 
+Over there , it comes =out of port number 2 , and is separated after being connected with a switch 
+Is it possible to PING through each other between different PC machines , across switches ? 
+It seems like it can go through 
+This is the health division 's machine , it belongs to port number 2 
+I 'll look =again at the big screen 
+There 's no problem with the policy , 
+it seems like it 's over there with the big screen 
+Uh-huh , =OK , Engineer Dong , I 'll check again 
+Hmm , if there 's a problem , I will consult you =again , and first I 'll go look at the equipment 
+Engineer Zhang , is the big screen 's issue resolved ? 
+Have you found the cause ? 
+Maybe the electrical switch inside has been tripped , we 're looking for the repair person right now , and see =how it can be resolved 
+Engineer Dong , it still does n't work 
+Right now , it 's still that way , you can ping through in the computer room , but in the west wing of the hospital it does n't work 
+Can you PING through the gateway ? 
+Yes 
+Including the big screen ? 
+Computers on the same switch as the big screen can PING through to the big screen and can PING through to other switches ' computers as well , right ? 
+Yes , they can 
+Is the big screen a computer ? 
+No , it 's not a machine , just a thing similar to an Internet card 
+It can match an IP address , but it does n't have a MAC address 
+Have you connected a notebook computer to the screen 's Internet cable and set up an IP address to substitute for the big screen ? 
+Could you see if computers on other switches can access it ? 
+Use a notebook computer to substitute for the big screen 
+Later , I 'll go have a try 
+Just replace it with the notebook computer and that will be enough 
+It does n't matter if you replace the big screen or not , they 're all under the same switch 
+It is necessary to test it , and see if it is a policy problem , can other computers access each other through the different ports of different switches and firewalls ? 
+There 's just one switch in the computer room 
+The remainder is directly connected by fiber optic cable to the third floor of the hospital 's western wing 
+So , can PCs going through the ports of different firewalls access each other ? 
+In the past , they could n't access 
+After you 've added the policy , you can use them 
+In the morning , I ping'ed a machine under port 2 from under port 3 
+and could ping through 
+Then maybe it 's the big screen 's issue , 
+My thought is to switch the big screen with a computer , test it , and confirm where the problem is coming from 
+Right now , the policy for the firewall 's connection to the internal network is completely open 
+There are no restrictions =between the internal network 's connections , 
+and the ARP table =also does n't have any 
+also does n't have any 
+If it does not work to achieve this , look for the agent to resolve the problem on the spot 

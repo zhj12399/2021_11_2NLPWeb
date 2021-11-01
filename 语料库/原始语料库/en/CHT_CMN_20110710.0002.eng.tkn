@@ -1,0 +1,73 @@
+Engineer Dong , are you there ? 
+I would like to consult with you about something 
+Our hospital 's external network =machines are connected through two ports 
+The machines going through these two ports can not be PINGed through to each other nor can they connect 
+Machines under the same port can be PINGed = through and can also connect 
+How can this be dealt with ? 
+Relatively urgent application 
+Are you there ? 
+What is the situation now ? 
+The eastern wing of the hospital 's basically all goes out through port number two 
+The western wing of the hospital 's all goes out through port number three 
+If they do n't belong to one port they ca n't PING each other nor can they connect 
+So , is there a problem with access right now ? 
+Have you added a 12 - trust to 12 - trust permission policy ? 
+Users under the two ports can all get online through their devices , right ? 
+Getting online is not affected 
+All normal 
+It 's just that they ca n't access each other 
+Can you get them to access each other now ? 
+Yes , 
+The devices ' addresses , usernames , and passwords 
+The LED screen is in the eastern wing of the hospital , but the management terminal should be put over there at the China Construction Bank in future 
+Usernames and passwords are still needed 
+=I 'll take a look 
+z1z2j3 p4k5 
+The prompt says that the username or password is wrong 
+What about the password zz3hospital ? 
+This latter one is OK 
+Oh , hehe , I have n't entered in such a long time that I do n't even remember =which one very clearly myself 
+At any rate , there are just those few 
+[ Picture ] Why is it blocked ? 
+I do n't know 
+I have n't entered in a long time 
+What is this used for ? 
+This policy permits two ports to access each other 
+Oh 
+Right now , I can actually PING through , but the ID in the policy belongs to 1 , which is still blocked 
+I 'll give it a try , and see if I can debug it here 
+It should be that it wo n't PING through and the policy is blocked , 
+== I entered it wrong 
+This is the external network address , right ? 
+Uh , PING 'd wrong 
+Uh , it did n't go =through 
+It did n't go through 
+Do I enable that policy now ? 
+Without the policy , it definitely wo n't go through , 
+It ca n't be enabled , 
+Oh 
+The device 's trial licesens has expired , 
+Oh 
+There is no way to alter the configuration , 
+Contact our sales , 
+Can that device 's parameters be sent over ? 
+What parameters ? 
+We 'll take a look and make a bidding document 
+The device 's 
+This device is over 5,000 yuan , and it must go through the process of seeking bids 
+Hmm , OK , look for You Yongbo 
+OK 
+How to contact him ? 
+Are you there ? Engineer Dong . Can you help me change that policy =first so that the social work department can try it to see if it can be used ? 
+The application has already been sent up and will be approved soon . Will you come or will it be done through eWAY ? 
+Engineer Dong , could you help me turn on that mutual access function ? We want to use it to debug the big screen here 
+Hello , because the software 's trial period has already expired , I have no way of changing the configuration either now , this is the function to license the software , unless you apply for the trial use of LIC again , there is no way to change the configuration , 
+Oh 
+The application has already been submitted to the superiors , and a bid will be sought soon . Will you all come here or will you use eWAY ? 
+It will depend on the sales department 's plans , 
+Maybe eWAY 
+Oh 
+In the meantime , do not cut the power for the device under any circumstances 
+Oh , there is a UPS 
+If the power goes out , then just goes out . Only when the power goes out will the leaders ' approval be quicker 
+Hehe , 

@@ -1,0 +1,88 @@
+Are you there ? 
+Yes 
+I - PEX 
+Is this the standard for the interfaces ? 
+Antenna 
+Do you mean the interfaces on the modules ? 
+Yes 
+It does n't seem so 
+What standard is it ? 
+We are looking for antennas .
+You should be looking for antenna suppliers 
+Yes 
+I remember that there is the contact for antenna suppliers in the document 
+Is there a built - in one ? 
+The ones in the document are external ones supposedly 
+Um 
+Many antenna factories have built - in ones 
+Oh 
+You are looking for the GPS antenna , right ? 
+not the RF antenna , right ? 
+Do we need to do the commissioning test =again ? 
+for the 3G one 
+=Er 
+Gps uses an independent one .
+I have to ask our hardware engineers about this 
+I saw a lot of customers using very simple antennas 
+Oh 
+It would be better if we do n't have to =redo it , if there is an antenna available .
+I will reply to you later 
+OK 
+I will ask about the hardware 
+It should be compatible with the frequencies of WCDMA and EVDO .
+=Er 
+The requirements for 3G antennas are not very high 
+Ordinary antenna factories will be fine 
+I asked about the hardware 
+We still need to do the re-match 
+Oh , 
+There will be a charge for making it compatible again .
+Really ? 
+We must certainly test a custom antenna to see how well it is made 
+I just asked a customer , and was told that there was no charge for making their antennas compatible again 
+Is n't there a charge for a custom build ? 
+Let 's take the production of an ordinary 3G antenna as an example 
+They should normally test such things as transmission and space radiation for you , should n't they ? 
+Do n't they charge the tooling fee and research and development fee ? 
+I am not sure about this 
+You can ask some more antenna factories 
+Perhaps some manufacturers will not charge these .
+You 'd better choose one that has made antennas for the modules of our company before 
+Thus the cost may be even less 
+Do you have any recommendation ? 
+I 'm not sure about this 
+There are many clients 
+I have been to an antenna factory 
+But I forget the name [ emoticon ] 
+Where was it ? Baoan ? 
+I remember that it was in Shangsha 
+Oh 
+OK . I will search for it on the Internet later .
+You can search for some more , but you still need to configure it based on your machine itself 
+Um 
+That is because the different structure of your machine will affect the size and position of the antenna 
+I suppose I can find a company that does not charge fees .
+And it will ensure the commissioning is completed .
+I once asked a client , and he said that no other fee was being charged 
+But I do n't know about the others 
+You can ask some more companies 
+OK 
+Because the antenna is relatively easy to match 
+Unlike GPS antennas , which have too weak signals 
+Um 
+If your machine equipment is relatively formal , you had better use customized ones 
+Some clients have customized antennas because their machines need to pass the CTA test 
+There is a charge for customization , right ? 
+I suppose so 
+The antenna can be used in two formats , right ? 
+Um 
+Our antennas are universal for both W and EVDO modules 
+GSC antenna connectors are several yuan more expensive than the IPEX ones 
+They are called the [ spring | Chun Tian ] connectors , right ? 
+[ Spring field | Chun Tian ] connectors 
+I 've never heard of it 
+You need to configure based on the interfaces on our modules 
+There are only two types of interfaces on our modules , GSC and HSC 
+Yes 
+I just sent over a snapshot of the interfaces for confirmation .
+=Er 

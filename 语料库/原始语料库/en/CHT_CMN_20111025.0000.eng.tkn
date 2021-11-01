@@ -1,0 +1,141 @@
+Are you there ? 
+Yes 
+Did you receive the module last time ? 
+It 's been several months 
+I received , of course 
+Um 
+I thought you mailed me a module again 
+I ca n't make one appear from nowhere .
+You are responsible for technical support , right ? 
+Um 
+Is there anything wrong ? 
+Very good 
+It 's useful , is n't it ? 
+The product has been released for years 
+Is n't it just released ? 
+The W module has already been released for a few years 
+Three new modules are now released 
+Oh 
+The frequency bands are selectable 
+The W module is very stable now 
+Oh 
+You can ask other clients 
+What does it mean by selectable frequency bands ? 
+There are many 3G frequency bands , right ? 
+There are many 2G frequency bands , too 
+Clients can select the appropriate frequency bands depending on where their electronic products are going to be sold . It is estimated that the prices will be lower .
+Oh 
+That is to say that one module is sufficient for both wcdma and evdo ? 
+No , it ca n't be 
+The frequency bands of Mobile are the same =as those of Unicom 
+The current W module uses the 4+ ! or 4+ 3 frequency band , and you can choose the 4+ 2 frequency band later 
+You contacted me just for asking this matter ? 
+How well is your machine adjusted ? 
+Oh 
+How long does it take to switch between frequency bands ? 
+In general , the frequency band is automatically selected at power on 
+If you want to switch from 2G to 3G frequency bands , you may send a command to switch it . The search for a new network and registration will take about 10 seconds 
+It takes a bit long time .
+We have no choice about these . They are stipulated by the operators 
+The search for a new network requires reconnection with the base station for confirmation , which needs to be determined by the operators 
+It is not something that can be determined by a mobile terminal 
+The wcdma and evdo modules are encapsulated in the same way .
+This design is great ! 
+The UART levels are different , though 
+Level conversion is needed ? 
+Um 
+Did n't we change the level of the W module I brought there from the last time ? 
+Oh 
+Understood 
+I am now in charge of a product project in another company , and I wish to use 3G modules .
+Are you interested in cooperation ? 
+=Er 
+How do we cooperate ? 
+It will be great if we can cooperate , of course 
+The prices of wcdma and evdo modules are close , right ? 
+Um 
+How much approximately ? 
+The EVDO ones are more expensive 
+I am not sure about this 
+Oh 
+Business price quotes always depend on the quantity 
+Do we need to ask Manager Mao ? 
+There is discount for big quantities 
+No 
+That is for sure 
+Who do we ask ? 
+Let me introduce you to a sales manager 
+You can ask him 
+What about this 
+? 
+When you have time in the next few days , come to our company .
+OK 
+But you also need to tell us about what products you are doing 
+Um 
+Let 's contact via telephone first 
+What is your telephone number 
+Call my phone , please 
+I ca n't get through to yours 
+Is it a direct line ? 
+Um 
+OK . I will give him a call now .
+You talk to him . There should be no problem when you talk to him about the matters of the prototype and development boards 
+OK 
+Can dial - up Internet connection and the AT command be performed simultaneously ? 
+Yes 
+There is a dedicated AT port for USB 
+What are the uses of the three USB virtual serial ports ? 
+Four ports are mapped , 
+one is dedicated for sending AT 
+one is for GPS data 
+one is a diagnostic port , which we use for debugging and upgrades 
+Oh 
+GPS is not AGPS , right ? 
+? 
+It does not rely on the assistance of base stations for positioning 
+It is through the GPS satellites 
+The positioning can also be done with the assistance of base stations 
+Oh 
+Time to knock off now . Let 's talk tomorrow 
+OK 
+How much higher is the price for a module with gps ? 
+Not much higher 
+Probably just more than ten yuan 
+How is the effect ? 
+You can ask the salesman about the price 
+GPS positioning ? 
+What about this : you come over with the salesman when you have time .
+In general , we can finish the positioning on our development boards within one and a half minute 
+OK 
+Oh , 
+You can talk to the sales manager 
+Did n't you contact him yesterday ? 
+Are the drivers of wcdma modules and evdo modules compatible with each other ? 
+They are not compatible with each other 
+It is not difficult to make them compatible , is it ? 
+Where are the drivers used that you mentioned ? 
+and linux 
+The drivers are different 
+This does not matter 
+You put both drivers in the system 
+The system will automatically load them 
+Um 
+You can contact our sales manager 
+When you come , bring a module that can be used for the GPS demo .
+I have contacted him .
+Um 
+Telecom or Unicom module ? 
+=Er 
+OK 
+Bring one for wcdma and one for evdo module .
+=Er 
+OK 
+Did he say when he would go to your company ? 
+He said it would depend on your time .
+=Er 
+If you need to verify the GPS functionality , then a GPS antenna is required 
+Oh , do you have a matching antenna ? 
+We have a GPS antenna 
+A passive antenna 
+Um . do a demonstration , mainly to assess whether it can replace an independent GPS module .
+Um 

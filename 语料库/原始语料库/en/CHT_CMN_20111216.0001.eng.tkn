@@ -1,0 +1,108 @@
+Are you there ? 
+Yes 
+How is your WINCE working out for you ? 
+Are you able to make a dial - up Internet connection ? 
+Yes 
+How did you install the driver ? 
+Was it compiled into the kernel ? 
+Um 
+There is no problem with EVDO and W , right ? 
+Um 
+After the driver is compiled into the kernel , it does not need to be loaded every time , right ? 
+Um 
+Automatically 
+OK 
+Have you tested the way of compiling both the W and EVDO drivers into the kernel , so that both the W and EVDO modules can be used ? 
+Have you tested it ? 
+Um 
+Is that what you have done ? 
+Yes 
+I did it following your guidance ! 
+No 
+I was afraid that if you did n't do so , you would need to recompile it once you changed the modules later 
+Oh 
+We had a client who encountered this 
+No. They are automatically recognized now 
+The signal of the WCDMA module is not very good 
+When they are both compiled in it , they can be automatically recognized 
+Um 
+I do n't get good results in other places , either 
+Unicom 's 3G signal is not strong 
+I always get full bars for the 2G signal 
+Um . We are going to Hong Kong to test today .
+OK 
+After the testing , I would like to ask you how good the signal is in Hong Kong 
+Yes 
+Which is the network service provider in Hong Kong ? 
+Unicom , or others 
+=Unicom 
+Mainly WCDMA 
+=Er 
+That 's good 
+Go and have a test 
+But it seems that Unicom 's download bandwidth has been enlarged . The download can reach 400KB in my last test 
+Very fast 
+240KB / S on average 
+Oh 
+In our test here , however , 
+it is very slow 
+You use Thunder to download 
+The signal value is only 8 
+It is even difficult to get on the Internet 
+The signal is generally 13 , 99 
+Have you connected the =anetenna 
+Antenna 
+It is an external antenna 
+A built - in one 
+Um 
+has also been tested 
+So low ? 
+Yes 
+It is impossible to get on the Internet 
+Can you use the 5.0 driver I sent to you ? 
+Even we can get on the Internet , the speed is also slow ! 
+Um 
+The signal is too bad 
+You have to live with that 
+We will get the test result in Hong Kong 
+Let 's see how it goes today 
+Um 
+How was the test result in Hong Kong yesterday ? 
+It was OK .
+How =strong was the signal ? 
+The signal was so good in Hong Kong ? 
+That is for sure 
+It is mainly WCDMA in Hong Kong 
+31 means full bars of signal 
+Um 
+It would be pretty good if the signal reaches 18 , 99 in most places of Shenzhen 
+=Unicom is not doing very well in the mainland ! 
+Unicom is even promoting 3G when it is not able to provide good 3G signals 
+Um . Its network has poor coverage and weak strength .
+The most mature 3G technology was given to Unicom , but Unicom did not take good advantage of it 
+Mobile will rise and catch up with it 
+I do n't know how well TD is doing now 
+I have no idea about TD , either 
+But there are also problems 
+Last time I bought a TD smart phone , and I kept missing calls with it 
+Oh 
+There was no problem answering calls on 2G , but there were some problems on 3G 
+TD is not very stable 
+The domestic technology still needs to be improved 
+Is your WINCE5.0 driver also compiled into the kernel together with the W and EVDO ones ? 
+You can also insert these two modules for use , right ? 
+Do you have any recommended built - in antenna factory ?? 
+Um 
+Did you ask the one I mentioned last time ? 
+I did n't find it 
+In fact , I have not been to many antenna factories 
+No specific company name ? 
+Because these 3G antennas are easy to match 
+Do a search on the Internet 
+There are probably many of them 
+with the good and bad mixed up 
+You have to look at the scale first 
+and select a few of them for a personal visit 
+You should take your machine with you 
+because you need to configure based on your machine 
+Um 

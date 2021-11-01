@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ZHJ_NLP</title>
+</head>
+<body>
+<h2>NLP</h2>
+<h3>输入中文和对应的翻译即可获得中英文对齐的数据</h3>
+<form method="post">
+    <h3>中文：</h3><textarea name="zh_text_name" id = "zh_text_id" rows="1" style="height: 50px;width: 300px">{{ zh_text_content }}</textarea><br>
+    <h3>英文：</h3><textarea name="en_text_name" id = "en_text_id" rows="1" style="height: 50px;width: 300px">{{ en_text_content }}</textarea><br>
+    {% csrf_token %}
+    <input type="submit" value="提交" name="save_button" style="width: 80px;height: 60px">
+</form>
+<br>
+<a>自然语言大作业 作者：张昊杰 学号:1120193583</a><br>
+<a>@zhj12399</a>
+</body>
+</html>

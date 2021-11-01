@@ -1,0 +1,81 @@
+=Hello , Engineer Wang , are you there ? 
+Yes 
+Now , there are some problems with =two medical records of the Surgery Department 
+What problems ? 
+Showing different things 
+How about opening and saving using a doctor 's employee number ? 
+When searching on Browse Medical Records , it shows +bed 
+See whether it is different 
+Open directly and then save without changes ? 
+Open the medical records directly and then just save 
+It 's also OK to use guest1 account 
+It does n't work 
+Still the same , the search page shows + 12 
+Start a remote access for me 
+Remote access is too slow , I 'm going to eat first , and will come back in a while to try again 
+Now , these two have been changed back 
+Good , thanks , Engineer Wang 
+This may be a problem with the version , synchronization is still not easy to use 
+Oh 
+In that case , please see if it can be changed 
+If this problem appears again , just change it in Hospitalization Details 
+OK , OK 
+If not , at night , I 'll try to access your director 's computer remotely to upgrade the version 
+OK 
+Your director 's computer is not off at night , right ? And does the teamviewer password remain unchanged ? 
+Uh-huh 
+OK 
+Is it a problem with the oracle client terminal ? 
+I 'm using a 64 - bit 
+You mean win7 system ? 
+Operating under win7 x64 
+Yes 
+Can it be accessed remotely ? 
+We did not register " OraOLEDB . Oracle . 1 " on the local computers to provide programs 
+Hmm , OK 
+OK , Engineer Wang 
+Yes 
+Can we reinstall oracle ? 
+Yes 
+Install now ? 
+Do n't have to install now 
+Oh 
+… There is n't much space left on my C drive … 
+OK 
+It should be a problem with the oracle client terminal 
+Oh 
+It should be fine now , right ? 
+Yes , fine 
+OK , Engineer Wang , thanks 
+OK 
+Now , I have only added for Electronic Medical Records 
+OK , I have existing ones 
+.. his can not run anymore 
+You did n't add his , did you ? 
+tnsnames . ora 
+Inside this 
+Is this client terminal not 64 - bit ? 
+Why not you uninstall that 9i and reinstall 10 ? 
+Umm … then what about Electronic Medical Records ? 
+Mine is a 64 - bit server 
+I only installed the client terminal 
+I do n't know . By right , reinstalling 10 Electronic Medical Records should also work 
+OK , let me see 
+No requirements for the directory , right ? 
+Anything works ? 
+Yes 
+It showed an error message the moment the installation was completed 
+Sweat , I still did not register successfully 
+I went online to search , and all said that it will work by re-registering or giving permission . However , just now you tried and it still did n't work 
+… what should we do about this ? 
+Where to change that wrong bed number at noon ? 
+At Hospitalization Details 
+There is a bed number in the Discharge Department 
+Just need to change that 
+It ca n't be registered with oracle . Why not you check online to see if this can be solved ? I 'll also try over here 
+It is grey in color here and can not be modified 
+Which account was used to log in ? 
+Therefore , the body 
+guest1 
+Log in again 
+Or reopen the medical record of this patient 

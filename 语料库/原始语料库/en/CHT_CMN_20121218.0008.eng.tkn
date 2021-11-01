@@ -1,0 +1,147 @@
+Are you there ? 
+How is that problem working out ? 
+Can you solve it ? 
+It ’s difficult 
+It ’s not compiling ? 
+I have n’t compiled in your SDK yet 
+Right 
+It ’s not compiling 
+I do n’t know why 
+In which sdk ? 
+The one you sent me the last time 
+Oh 
+What error message does it give ? 
+This – you are printer drivers , right ? 
+Mm 
+What error is it ? 
+Device can not be added ? 
+Port no. changed , driver can not be added 
+What ’s the problem with compiling ? 
+What error does it report ? 
+That ’s very odd 
+It would compile before 
+Last month my computer had a problem , so I reinstalled the system , and reinstalled VS2005 
+After that it would n’t compile 
+And it does n’t compile on other SDKs ? 
+Mm 
+Big brother 
+Have you got any experience in this 
+I ’m not familiar with softwares 
+You may need to adjust the settings in vs2005 .
+I am guessing that it 's a different compiling environment 
+Yes 
+How do you change the compiling environment ? 
+You set it in project features 
+Mm 
+Some of them seem to work 
+In some SDKs it seems you can 
+It ’s produced a . DLL file 
+Wait a moment . I ’ll reinstall your SDK and give it a try 
+OK 
+Wait a moment , when it ’s compiled I ’ll send it to you 
+OK 
+Are your chips this architecture ? 
+Mm 
+OK 
+You commissioned someone else to develop the drivers for you ? 
+I think so 
+At any rate , there ’s no one maintaining this driver at the moment 
+Next year we ’ll get someone in specifically to do this stuff 
+There ’s a shortage of people at the moment 
+Oh 
+They ’ve all gone to do Android 
+You ’ve got andriod4.0 drivers , right ? 
+Mm 
+Android drivers are n’t as difficult as WINCE 
+Simple structure ? 
+With Android , all you have to do is define the module ’s VID in the kernel , and it will read the PID 
+Because the module is a USB device 
+Once it ’s recognized the USB device , it can be operated with the corresponding port 
+Oh , that ’s very simple .
+We ’ve already done the RIL , which is the thing it creates most convenience 
+Packaged and sent to the client 
+So the clients do n’t need to be adjusted for speech and internet 
+You ’ve done it ?! 
+That really is easy .
+Mm 
+So Android sales are very high 
+What platform do you work with most ? 
+Samsung ? 
+Or Rockchip ? 
+Giga 
+All of them 
+We have customers working on most platforms 
+But there are more on Giga and Rockchip 
+There ’s something wrong with your SDK 
+A lot of errors 
+Oh 
+222 errors 
+What can I do ? 
+Maybe it ’s because the header files are different 
+Is this the normal message ? 
+This is what it printed out after it was in hibernation ? 
+So what can I do if it wo n’t compile ? 
+Why do n’t I use another client ’s SDK to compile and send it to you to try 
+OK 
+The message in this box 
+What does that mean ? 
+You ’ve added EVDO drivers , have n’t you ? 
+But I have n’t seen the serial port 
+You have to compile the registry and these two . DLL files to the kernel 
+If it still does n’t work , then try with the module ’s default index number 
+I assume it ’s a port conflict 
+The new version does n’t have the print message ? 
+They should all have it 
+Ca n’t you install it ? 
+No data to print 
+And there ’s no port ? 
+There ’s only a print message when there ’s an error , right ? 
+Oh 
+I can check the serial port , but I ca n’t open the serial port .
+There are no messages 
+Some serial ports ca n’t be opened 
+What module are you using now ? 
+You should be able to open the ports for these two 
+I ca n’t open any serial ports 
+What ’s the baud rate ? 
+There ’s no hardware flow control 
+Right 
+Is it OK ? 
+Do you have the wince6.0 serial debugging tool 
+I ca n’t open it 
+I think I have it 
+Is there any message saying successfully loaded ? 
+The tool you ’ve sent only seems to be able to look up serial ports .
+Inside there is a tool that can open serial ports , is n’t there ? 
+The V2.1 one 
+There are three tools inside 
+One is for looking up serial ports 
+One is for editing the registry 
+One is for opening serial ports and sending commands 
+What does com5 do ? 
+com6 and 7 are OK 
+Ah 
+Then you can use it 
+COM5 is no use to you 
+It ’s a diagnostic port 
+We use that ourselves 
+You have a try 
+So block it 
+COM8 is the GPS port 
+Let ’s block the ones that are n’t there .
+That should be fine 
+You have a try 
+Some customers have problems if you block them 
+You have a try 
+It is used for Internet dial - up access 
+COM7 is the AT port 
+For sending commands 
+You wo n’t need to use the others 
+OK 
+I ’ll just keep 6 7 
+I have n’t put in a sim card CSQ [ image ] 
+And you have n’t connected the aerial , have you ? 
+This display does n’t have a signal 
+I ’ve connected the aerial .
+You have to put a sim card into this module to find a signal 
+Mm 

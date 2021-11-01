@@ -1,0 +1,24 @@
+96 65 1 1
+0 17 1 1
+17 47 1 1
+62 81 1 1
+ble for head of cept.
+F: 65 E: 96 
+SUM: 1 
+1 1
+
+F: 17 E: 0 
+SUM: 1 
+1 1
+
+F: 47 E: 17 
+SUM: 1 
+1 1
+
+F: 81 E: 62 
+SUM: 1 
+1 1
+
+# Table for non-head of cept.
+
+FULL-SUM: 4
